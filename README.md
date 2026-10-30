@@ -6,3 +6,6 @@ Shradha Khapra
 
 # student
 Yash sharma
+
+# course
+Prime
